@@ -1,0 +1,14 @@
+
+
+.form > .title {
+    text-align: center;
+    font-size: 4em; 
+    font-weight: bolder;
+    color: rgb(211, 216, 204);
+}
+
+@media screen and (max-width: 600px) {
+    .form > .title {
+        font-size: 2em; 
+    }
+}
